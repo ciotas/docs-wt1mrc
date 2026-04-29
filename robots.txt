@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jvnxla.ccloud.asia/sitemap.xml
